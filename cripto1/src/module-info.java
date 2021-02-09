@@ -1,0 +1,2 @@
+module cripto1 {
+}
